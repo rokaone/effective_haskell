@@ -1,0 +1,3 @@
+module Main where
+helloWorld = "Hello, World!"
+main = print helloWorld
